@@ -1,27 +1,6 @@
 const agents = [
   // Mock data of agents and their clues
   {
-  "roundNumber": 1,
-  "attemptsLeft": 3,
-  "opponent": {
-    "agent": "Undisclosed",
-    "clues": [
-      {
-        "type": "Abilities",
-        "description": "The opponent used an ability that creates a burst of flames."
-      },
-      {
-        "type": "Ultimate",
-        "description": "The opponent used an ultimate that enhances their speed and allows them to rush enemies."
-      },
-      {
-        "type": "Playstyle",
-        "description": "The opponent played aggressively, pushing into enemy territory."
-      }
-    ]
-  }
-}
-  {
     "agent": "Reyna",
     "clues": [
       "The opponent used an ability that allows them to heal",
